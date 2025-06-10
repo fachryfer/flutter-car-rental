@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "740232934971",
+    "project_id": "rentalmobil-ef0ad",
+    "storage_bucket": "rentalmobil-ef0ad.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740232934971:android:6d04511a640b09c3e38e1e",
+        "android_client_info": {
+          "package_name": "com.example.rental_mobil"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC41MjFPHrQvt77s4_SmQpA__KYelIC4Qo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
